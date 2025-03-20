@@ -1,0 +1,54 @@
+{
+  "1": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " Please cool Stella.",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "please cool stella",
+      "wer_score": 33.33333333333333,
+      "cer_score": 11.11111111111111,
+      "similarity_score": 0.9333643317222595,
+      "visqol_score": 3.9862670858454408
+    }
+  ],
+  "2": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " Finish all this stuff.",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "finish all this stuff",
+      "wer_score": 100.0,
+      "cer_score": 83.33333333333334,
+      "similarity_score": 0.8386579751968384,
+      "visqol_score": 1.861552699036834
+    }
+  ],
+  "3": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " You're going to lose your life.",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "you are going to lose your life",
+      "wer_score": 100.0,
+      "cer_score": 100.0,
+      "similarity_score": 0.39483657479286194,
+      "visqol_score": 1.0
+    }
+  ],
+  "4": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " Please, cool Stella.",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "please cool stella",
+      "wer_score": 33.33333333333333,
+      "cer_score": 11.11111111111111,
+      "similarity_score": 0.9300459027290344,
+      "visqol_score": 3.1983786536458454
+    }
+  ]
+}

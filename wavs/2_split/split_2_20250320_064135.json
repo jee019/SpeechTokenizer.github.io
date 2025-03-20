@@ -1,0 +1,66 @@
+{
+  "1": [
+    {
+      "audio_path1": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "audio_path2": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p237/p237_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " Please close, Stella.",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "please close stella",
+      "wer_score": 33.33333333333333,
+      "cer_score": 22.22222222222222,
+      "similarity_score_1": 0.357889324426651,
+      "similarity_score_2": 0.9078156352043152,
+      "similarity_score": 0.3722454607486725,
+      "visqol_score": 1.4265449872925668
+    }
+  ],
+  "2": [
+    {
+      "audio_path1": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "audio_path2": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p237/p237_002_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " Asked to bring these things",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "asked to bring these things",
+      "wer_score": 100.0,
+      "cer_score": 100.0,
+      "similarity_score_1": 0.3452267050743103,
+      "similarity_score_2": 0.9390143156051636,
+      "similarity_score": 0.5534094572067261,
+      "visqol_score": 1.4150116994880213
+    }
+  ],
+  "3": [
+    {
+      "audio_path1": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p245/p245_002_mic2.flac",
+      "audio_path2": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p248/p248_004_mic2.flac",
+      "original_text": "Ask her to bring these things with her from the store.",
+      "transcribed_text": " We also need a small plastic snake and a big tongue.",
+      "original_text_normalized": "ask her to bring these things with her from the store",
+      "transcribed_text_normalized": "we also need a small plastic snake and a big tongue",
+      "wer_score": 100.0,
+      "cer_score": 79.24528301886792,
+      "similarity_score_1": 0.5851534605026245,
+      "similarity_score_2": 0.9598655104637146,
+      "similarity_score": 0.6287903785705566,
+      "visqol_score": 1.3411823765431121
+    }
+  ],
+  "4": [
+    {
+      "audio_path1": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p251/p251_007_mic2.flac",
+      "audio_path2": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p254/p254_003_mic2.flac",
+      "original_text": "The rainbow is a division of white light into many beautiful colors.",
+      "transcribed_text": " Six spoons of fresh-soaked peas, five thick slabs of",
+      "original_text_normalized": "the rainbow is a division of white light into many beautiful colors",
+      "transcribed_text_normalized": "6 spoons of fresh soaked peas 5 thick slabs of",
+      "wer_score": 100.0,
+      "cer_score": 80.59701492537313,
+      "similarity_score_1": 0.8511766791343689,
+      "similarity_score_2": 0.9141615629196167,
+      "similarity_score": 0.8226026296615601,
+      "visqol_score": 2.1364985855737246
+    }
+  ]
+}

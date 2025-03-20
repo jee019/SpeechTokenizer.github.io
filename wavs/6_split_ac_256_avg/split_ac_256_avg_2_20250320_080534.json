@@ -1,0 +1,66 @@
+{
+  "1": [
+    {
+      "audio_path1": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "audio_path2": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p237/p237_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " Please call Stella.",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "please call stella",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "similarity_score_1": 0.24559785425662994,
+      "similarity_score_2": 0.9170650839805603,
+      "similarity_score": 0.3722454607486725,
+      "visqol_score": 1.2231257849009673
+    }
+  ],
+  "2": [
+    {
+      "audio_path1": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "audio_path2": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p237/p237_002_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " Ask her to bring these things",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "ask her to bring these things",
+      "wer_score": 100.0,
+      "cer_score": 100.0,
+      "similarity_score_1": 0.46825242042541504,
+      "similarity_score_2": 0.9244626760482788,
+      "similarity_score": 0.5534094572067261,
+      "visqol_score": 1.0
+    }
+  ],
+  "3": [
+    {
+      "audio_path1": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p245/p245_002_mic2.flac",
+      "audio_path2": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p248/p248_004_mic2.flac",
+      "original_text": "Ask her to bring these things with her from the store.",
+      "transcribed_text": " We also need a small plastic snake and a big top",
+      "original_text_normalized": "ask her to bring these things with her from the store",
+      "transcribed_text_normalized": "we also need a small plastic snake and a big top",
+      "wer_score": 100.0,
+      "cer_score": 77.35849056603774,
+      "similarity_score_1": 0.5704607963562012,
+      "similarity_score_2": 0.9619022607803345,
+      "similarity_score": 0.6287903785705566,
+      "visqol_score": 1.3365874005503031
+    }
+  ],
+  "4": [
+    {
+      "audio_path1": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p251/p251_007_mic2.flac",
+      "audio_path2": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p254/p254_003_mic2.flac",
+      "original_text": "The rainbow is a division of white light into many beautiful colors.",
+      "transcribed_text": " 6 spoons of fresh slopees, 5 thick slabs of",
+      "original_text_normalized": "the rainbow is a division of white light into many beautiful colors",
+      "transcribed_text_normalized": "6 spoons of fresh slopees 5 thick slabs of",
+      "wer_score": 91.66666666666666,
+      "cer_score": 80.59701492537313,
+      "similarity_score_1": 0.8009526133537292,
+      "similarity_score_2": 0.9640986323356628,
+      "similarity_score": 0.8226026296615601,
+      "visqol_score": 1.1873503922225392
+    }
+  ]
+}

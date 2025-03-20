@@ -1,0 +1,54 @@
+{
+  "1": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " Please cool Stella.",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "please cool stella",
+      "wer_score": 33.33333333333333,
+      "cer_score": 11.11111111111111,
+      "similarity_score": 0.9570037126541138,
+      "visqol_score": 3.8960299932537343
+    }
+  ],
+  "2": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " Thanks, cool stuff.",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "thanks cool stuff",
+      "wer_score": 100.0,
+      "cer_score": 66.66666666666666,
+      "similarity_score": 0.8713316321372986,
+      "visqol_score": 2.2338183490991894
+    }
+  ],
+  "3": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " We're turning to the wrong side of the screen.",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "we are turning to the wrong side of the screen",
+      "wer_score": 100.0,
+      "cer_score": 100.0,
+      "similarity_score": 0.5364839434623718,
+      "visqol_score": 1.209948089017238
+    }
+  ],
+  "4": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " Please school stuff",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "please school stuff",
+      "wer_score": 66.66666666666666,
+      "cer_score": 44.44444444444444,
+      "similarity_score": 0.929513692855835,
+      "visqol_score": 3.1317018538356582
+    }
+  ]
+}

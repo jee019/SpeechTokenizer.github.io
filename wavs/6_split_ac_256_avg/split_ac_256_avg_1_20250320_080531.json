@@ -1,0 +1,54 @@
+{
+  "1": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " Please call Stella.",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "please call stella",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "similarity_score": 0.9635093808174133,
+      "visqol_score": 4.110604263142247
+    }
+  ],
+  "2": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " you",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "you",
+      "wer_score": 100.0,
+      "cer_score": 100.0,
+      "similarity_score": 0.19282060861587524,
+      "visqol_score": 1.0
+    }
+  ],
+  "3": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " I'm going to go get some water.",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "i am going to go get some water",
+      "wer_score": 100.0,
+      "cer_score": 100.0,
+      "similarity_score": 0.5009390115737915,
+      "visqol_score": 1.0
+    }
+  ],
+  "4": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " Please call Stella.",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "please call stella",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "similarity_score": 0.9378163814544678,
+      "visqol_score": 3.08329191756516
+    }
+  ]
+}
