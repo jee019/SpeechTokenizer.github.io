@@ -1,0 +1,54 @@
+{
+  "1": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " Please call Stella.",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "please call stella",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "similarity_score": 0.9861630201339722,
+      "visqol_score": 4.237457628787267
+    }
+  ],
+  "2": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " Please pull, Stella.",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "please pull stella",
+      "wer_score": 33.33333333333333,
+      "cer_score": 11.11111111111111,
+      "similarity_score": 0.8419567942619324,
+      "visqol_score": 1.8722361178375335
+    }
+  ],
+  "3": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " I'm going to play this out.",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "i am going to play this out",
+      "wer_score": 100.0,
+      "cer_score": 100.0,
+      "similarity_score": 0.39228615164756775,
+      "visqol_score": 1.0
+    }
+  ],
+  "4": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " Please call Stella.",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "please call stella",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "similarity_score": 0.9619580507278442,
+      "visqol_score": 3.327688749840948
+    }
+  ]
+}
