@@ -1,0 +1,62 @@
+{
+  "1": [
+    {
+      "audio_path1": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "audio_path2": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p237/p237_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " Please close the...",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "please close the .",
+      "wer_score": 100.0,
+      "cer_score": 50.0,
+      "similarity_score_1": 0.45887768268585205,
+      "similarity_score_2": 0.8867807388305664,
+      "similarity_score": 0.3722516894340515
+    }
+  ],
+  "2": [
+    {
+      "audio_path1": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "audio_path2": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p237/p237_002_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " I'll start by bringing these things",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "i will start by bringing these things",
+      "wer_score": 100.0,
+      "cer_score": 100.0,
+      "similarity_score_1": 0.40073254704475403,
+      "similarity_score_2": 0.8471512794494629,
+      "similarity_score": 0.5534035563468933
+    }
+  ],
+  "3": [
+    {
+      "audio_path1": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p245/p245_002_mic2.flac",
+      "audio_path2": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p248/p248_004_mic2.flac",
+      "original_text": "Ask her to bring these things with her from the store.",
+      "transcribed_text": " We also need a small plastic snake and a big toy",
+      "original_text_normalized": "ask her to bring these things with her from the store",
+      "transcribed_text_normalized": "we also need a small plastic snake and a big toy",
+      "wer_score": 100.0,
+      "cer_score": 77.35849056603774,
+      "similarity_score_1": 0.6017841100692749,
+      "similarity_score_2": 0.970885157585144,
+      "similarity_score": 0.6287718415260315
+    }
+  ],
+  "4": [
+    {
+      "audio_path1": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p251/p251_007_mic2.flac",
+      "audio_path2": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p254/p254_003_mic2.flac",
+      "original_text": "The rainbow is a division of white light into many beautiful colors.",
+      "transcribed_text": " 6 spoons of fresh snow peas, 5 thick subs and",
+      "original_text_normalized": "the rainbow is a division of white light into many beautiful colors",
+      "transcribed_text_normalized": "6 spoons of fresh snow peas 5 thick subs and",
+      "wer_score": 100.0,
+      "cer_score": 80.59701492537313,
+      "similarity_score_1": 0.8823236227035522,
+      "similarity_score_2": 0.9656782746315002,
+      "similarity_score": 0.8225984573364258
+    }
+  ]
+}

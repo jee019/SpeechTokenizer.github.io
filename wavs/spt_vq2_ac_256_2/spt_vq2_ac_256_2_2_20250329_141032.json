@@ -1,0 +1,66 @@
+{
+  "1": [
+    {
+      "audio_path1": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "audio_path2": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p237/p237_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " Chase, please follow.",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "chase please follow",
+      "wer_score": 100.0,
+      "cer_score": 72.22222222222221,
+      "similarity_score_1": 0.6801581978797913,
+      "similarity_score_2": 0.6231005191802979,
+      "similarity_score": 0.3722454607486725,
+      "visqol_score": 2.1846705190807763
+    }
+  ],
+  "2": [
+    {
+      "audio_path1": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "audio_path2": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p237/p237_002_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " Please, come this corner.",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "please come this corner",
+      "wer_score": 100.0,
+      "cer_score": 72.22222222222221,
+      "similarity_score_1": 0.5555527806282043,
+      "similarity_score_2": 0.6246557831764221,
+      "similarity_score": 0.5534094572067261,
+      "visqol_score": 2.159398253718884
+    }
+  ],
+  "3": [
+    {
+      "audio_path1": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p245/p245_002_mic2.flac",
+      "audio_path2": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p248/p248_004_mic2.flac",
+      "original_text": "Ask her to bring these things with her from the store.",
+      "transcribed_text": " I was feeling a little bit more so than I was feeling at the start.",
+      "original_text_normalized": "ask her to bring these things with her from the store",
+      "transcribed_text_normalized": "i was feeling a little bit more so than i was feeling at the start",
+      "wer_score": 100.0,
+      "cer_score": 79.24528301886792,
+      "similarity_score_1": 0.8266947269439697,
+      "similarity_score_2": 0.7645162343978882,
+      "similarity_score": 0.6287903785705566,
+      "visqol_score": 2.245012366514596
+    }
+  ],
+  "4": [
+    {
+      "audio_path1": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p251/p251_007_mic2.flac",
+      "audio_path2": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p254/p254_003_mic2.flac",
+      "original_text": "The rainbow is a division of white light into many beautiful colors.",
+      "transcribed_text": " The only reason to do so is to keep the lemon leaf in the center.",
+      "original_text_normalized": "the rainbow is a division of white light into many beautiful colors",
+      "transcribed_text_normalized": "the only reason to do so is to keep the lemon leaf in the center",
+      "wer_score": 100.0,
+      "cer_score": 73.13432835820896,
+      "similarity_score_1": 0.9308139085769653,
+      "similarity_score_2": 0.8835920691490173,
+      "similarity_score": 0.8226026296615601,
+      "visqol_score": 3.013086415937057
+    }
+  ]
+}

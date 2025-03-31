@@ -1,0 +1,50 @@
+{
+  "1": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " Please call Stella.",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "please call stella",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "similarity_score": 0.956070065498352
+    }
+  ],
+  "2": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " Please hold your hand.",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "please hold your hand",
+      "wer_score": 100.0,
+      "cer_score": 61.111111111111114,
+      "similarity_score": 0.42289018630981445
+    }
+  ],
+  "3": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " I'm going to go to the bathroom.",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "i am going to go to the bathroom",
+      "wer_score": 100.0,
+      "cer_score": 100.0,
+      "similarity_score": 0.5429592728614807
+    }
+  ],
+  "4": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " Please cool stuff.",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "please cool stuff",
+      "wer_score": 66.66666666666666,
+      "cer_score": 33.33333333333333,
+      "similarity_score": 0.89580237865448
+    }
+  ]
+}

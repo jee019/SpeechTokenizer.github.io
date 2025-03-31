@@ -1,0 +1,54 @@
+{
+  "1": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " Please call Stella.",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "please call stella",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "similarity_score": 0.9892032146453857,
+      "visqol_score": 4.04478671080636
+    }
+  ],
+  "2": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " Please call Stella.",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "please call stella",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "similarity_score": 0.8829464912414551,
+      "visqol_score": 1.9591888946307665
+    }
+  ],
+  "3": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네, 네,",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네 네",
+      "wer_score": 100.0,
+      "cer_score": 100.0,
+      "similarity_score": 0.48737597465515137,
+      "visqol_score": 1.1671388809463907
+    }
+  ],
+  "4": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " Here's the cheeseburger.",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "here is the cheeseburger",
+      "wer_score": 100.0,
+      "cer_score": 100.0,
+      "similarity_score": 0.7267357110977173,
+      "visqol_score": 2.2781683481184123
+    }
+  ]
+}

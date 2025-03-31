@@ -1,0 +1,30 @@
+{
+  "1": [
+    {
+      "audio_origin": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "audio_mimi": "/home/qwer010910/project/SpeechTokenizer.github.io/wavs/mimi/mimi_1_1.wav",
+      "visqol_score": 3.722749729543016
+    }
+  ],
+  "2": [
+    {
+      "audio_origin": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "audio_mimi": "/home/qwer010910/project/SpeechTokenizer.github.io/wavs/mimi/mimi_1_2.wav",
+      "visqol_score": 1.0
+    }
+  ],
+  "3": [
+    {
+      "audio_origin": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "audio_mimi": "/home/qwer010910/project/SpeechTokenizer.github.io/wavs/mimi/mimi_1_3.wav",
+      "visqol_score": 1.0
+    }
+  ],
+  "4": [
+    {
+      "audio_origin": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "audio_mimi": "/home/qwer010910/project/SpeechTokenizer.github.io/wavs/mimi/mimi_1_4.wav",
+      "visqol_score": 3.6968641591280202
+    }
+  ]
+}

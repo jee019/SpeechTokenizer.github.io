@@ -1,0 +1,54 @@
+{
+  "1": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " you",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "you",
+      "wer_score": 100.0,
+      "cer_score": 100.0,
+      "similarity_score": 0.2774597406387329,
+      "visqol_score": 1.0
+    }
+  ],
+  "2": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " you",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "you",
+      "wer_score": 100.0,
+      "cer_score": 100.0,
+      "similarity_score": 0.19769422709941864,
+      "visqol_score": 1.0
+    }
+  ],
+  "3": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " you",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "you",
+      "wer_score": 100.0,
+      "cer_score": 100.0,
+      "similarity_score": 0.19853298366069794,
+      "visqol_score": 1.0
+    }
+  ],
+  "4": [
+    {
+      "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " you",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "you",
+      "wer_score": 100.0,
+      "cer_score": 100.0,
+      "similarity_score": 0.19769422709941864,
+      "visqol_score": 1.0
+    }
+  ]
+}
