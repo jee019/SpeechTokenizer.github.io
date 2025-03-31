@@ -1,0 +1,11 @@
+{
+  "audio_path": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+  "original_text": "Please call Stella.",
+  "transcribed_text": " Please call Stella.",
+  "original_text_normalized": "please call stella",
+  "transcribed_text_normalized": "please call stella",
+  "wer_score": 0.0,
+  "cer_score": 0.0,
+  "similarity_score": 0.9933921694755554,
+  "visqol_score": 3.9956691989169397
+}
