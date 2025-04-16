@@ -1,0 +1,66 @@
+{
+  "1": [
+    {
+      "audio_path1": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "audio_path2": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p237/p237_001_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " Please call Stella.",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "please call stella",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "similarity_score_1": 0.7806475162506104,
+      "similarity_score_2": 0.7523707747459412,
+      "similarity_score": 0.3722454607486725,
+      "visqol_score": 2.468212652770409
+    }
+  ],
+  "2": [
+    {
+      "audio_path1": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p225/p225_001_mic2.flac",
+      "audio_path2": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p237/p237_002_mic2.flac",
+      "original_text": "Please call Stella.",
+      "transcribed_text": " Please call Stella.",
+      "original_text_normalized": "please call stella",
+      "transcribed_text_normalized": "please call stella",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "similarity_score_1": 0.6287606954574585,
+      "similarity_score_2": 0.82835853099823,
+      "similarity_score": 0.5534094572067261,
+      "visqol_score": 2.485139006655581
+    }
+  ],
+  "3": [
+    {
+      "audio_path1": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p245/p245_002_mic2.flac",
+      "audio_path2": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p248/p248_004_mic2.flac",
+      "original_text": "Ask her to bring these things with her from the store.",
+      "transcribed_text": " Ask her to bring these things with her from the store.",
+      "original_text_normalized": "ask her to bring these things with her from the store",
+      "transcribed_text_normalized": "ask her to bring these things with her from the store",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "similarity_score_1": 0.6931287050247192,
+      "similarity_score_2": 0.9017133712768555,
+      "similarity_score": 0.6287903785705566,
+      "visqol_score": 2.444100946651878
+    }
+  ],
+  "4": [
+    {
+      "audio_path1": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p251/p251_007_mic2.flac",
+      "audio_path2": "/data/speech/eval/TTS/VCTK-Corpus-0.92/wav48_silence_trimmed/p254/p254_003_mic2.flac",
+      "original_text": "The rainbow is a division of white light into many beautiful colors.",
+      "transcribed_text": " The rainbow is a division of white light into many beautiful colors.",
+      "original_text_normalized": "the rainbow is a division of white light into many beautiful colors",
+      "transcribed_text_normalized": "the rainbow is a division of white light into many beautiful colors",
+      "wer_score": 0.0,
+      "cer_score": 0.0,
+      "similarity_score_1": 0.9079313278198242,
+      "similarity_score_2": 0.7760542631149292,
+      "similarity_score": 0.8226026296615601,
+      "visqol_score": 3.1742008944722544
+    }
+  ]
+}
