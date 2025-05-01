@@ -1,0 +1,320 @@
+[
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p225_001_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/1_spt/spt_1_1.wav",
+    "similarity_score": 0.7759745717048645
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p225_001_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/1_spt/spt_1_2.wav",
+    "similarity_score": 0.34066295623779297
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p225_001_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/1_spt/spt_1_3.wav",
+    "similarity_score": -0.040491312742233276
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p225_001_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/1_spt/spt_1_4.wav",
+    "similarity_score": 0.4281803369522095
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p225_001_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_mimi/mimi_1_1.wav",
+    "similarity_score": 0.6371945142745972
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p225_001_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_mimi/mimi_1_2.wav",
+    "similarity_score": 0.2007039487361908
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p225_001_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_mimi/mimi_1_3.wav",
+    "similarity_score": 0.21222341060638428
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p225_001_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_mimi/mimi_1_4.wav",
+    "similarity_score": 0.6191583871841431
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p225_001_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_facodec/facodec_1.wav",
+    "similarity_score": 0.7606241703033447
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p225_001_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p237_001_mic2.flac",
+    "similarity_score": 0.32824230194091797
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p225_001_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/1_spt/spt_2_1.wav",
+    "similarity_score": 0.342640221118927
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p237_001_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/1_spt/spt_2_1.wav",
+    "similarity_score": 0.36028677225112915
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p225_001_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/1_spt_VQ4/spt_4_2_1.wav",
+    "similarity_score": 0.3088926076889038
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p237_001_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/1_spt_VQ4/spt_4_2_1.wav",
+    "similarity_score": 0.2825707495212555
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p225_001_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_mimi/mimi_2_1.wav",
+    "similarity_score": 0.27404943108558655
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p237_001_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_mimi/mimi_2_1.wav",
+    "similarity_score": 0.5813593864440918
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p225_001_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_facodec/facodec_2-1.wav",
+    "similarity_score": 0.7094046473503113
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p237_001_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_facodec/facodec_2-1.wav",
+    "similarity_score": 0.4111441373825073
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p225_001_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_facodec/facodec_con_2-1.wav",
+    "similarity_score": 0.29826050996780396
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p237_001_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_facodec/facodec_con_2-1.wav",
+    "similarity_score": 0.5678564310073853
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p225_001_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p237_002_mic2.flac",
+    "similarity_score": 0.34552299976348877
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p225_001_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/1_spt/spt_2_2.wav",
+    "similarity_score": 0.31534507870674133
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p237_002_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/1_spt/spt_2_2.wav",
+    "similarity_score": 0.5232604742050171
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p225_001_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/1_spt_VQ4/spt_4_2_2.wav",
+    "similarity_score": 0.23663988709449768
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p237_002_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/1_spt_VQ4/spt_4_2_2.wav",
+    "similarity_score": 0.3927556872367859
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p225_001_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_mimi/mimi_2_2.wav",
+    "similarity_score": 0.2637088894844055
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p237_002_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_mimi/mimi_2_2.wav",
+    "similarity_score": 0.6343408823013306
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p225_001_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_facodec/facodec_2-2.wav",
+    "similarity_score": 0.6891332864761353
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p237_002_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_facodec/facodec_2-2.wav",
+    "similarity_score": 0.448375940322876
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p225_001_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_facodec/facodec_con_2-2.wav",
+    "similarity_score": 0.38297727704048157
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p237_002_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_facodec/facodec_con_2-2.wav",
+    "similarity_score": 0.5516636967658997
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p245_002_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p248_004_mic2.flac",
+    "similarity_score": 0.23754510283470154
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p245_002_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/1_spt/spt_2_3.wav",
+    "similarity_score": 0.34356316924095154
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p248_004_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/1_spt/spt_2_3.wav",
+    "similarity_score": 0.5576762557029724
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p245_002_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/1_spt_VQ4/spt_4_2_3.wav",
+    "similarity_score": 0.39295893907546997
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p248_004_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/1_spt_VQ4/spt_4_2_3.wav",
+    "similarity_score": 0.5952855944633484
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p245_002_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_mimi/mimi_2_3.wav",
+    "similarity_score": 0.257702499628067
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p248_004_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_mimi/mimi_2_3.wav",
+    "similarity_score": 0.7673331499099731
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p245_002_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_facodec/facodec_2-3.wav",
+    "similarity_score": 0.49151259660720825
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p248_004_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_facodec/facodec_2-3.wav",
+    "similarity_score": 0.412251353263855
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p245_002_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_facodec/facodec_con_2-3.wav",
+    "similarity_score": 0.3990320563316345
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p248_004_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_facodec/facodec_con_2-3.wav",
+    "similarity_score": 0.5811042189598083
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p251_007_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p254_003_mic2.flac",
+    "similarity_score": 0.4880417585372925
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p251_007_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/1_spt/spt_2_4.wav",
+    "similarity_score": 0.3825177848339081
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p254_003_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/1_spt/spt_2_4.wav",
+    "similarity_score": 0.6377058029174805
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p251_007_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/1_spt_VQ4/spt_4_2_4.wav",
+    "similarity_score": 0.41519320011138916
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p254_003_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/1_spt_VQ4/spt_4_2_4.wav",
+    "similarity_score": 0.5789296627044678
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p251_007_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_mimi/mimi_2_4.wav",
+    "similarity_score": 0.5164991021156311
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p254_003_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_mimi/mimi_2_4.wav",
+    "similarity_score": 0.7614967226982117
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p251_007_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_facodec/facodec_2-4.wav",
+    "similarity_score": 0.8316406607627869
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p254_003_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_facodec/facodec_2-4.wav",
+    "similarity_score": 0.6219505071640015
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p251_007_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_facodec/facodec_con_2-4.wav",
+    "similarity_score": 0.5987695455551147
+  },
+  {
+    "case": "different_speakers",
+    "file1": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/0_origin/p254_003_mic2.flac",
+    "file2": "/nas2/speech/demo/SpeechTokenizer.github.io/wavs/2_facodec/facodec_con_2-4.wav",
+    "similarity_score": 0.7742172479629517
+  }
+]
